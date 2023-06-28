@@ -2,4 +2,5 @@
 * How to run your _code_
 * An overview of _*how your code works*_
 
-https://github.com/NataliaVakh/DAY4/actions/workflows/main.yml/badge.svg
+https://github.com/NataliaVakh/DAY4/actions/workflows/automated.yml/badge.svg
+https://github.com/NataliaVakh/DAY4/actions/workflows/test.yml/badge.svg
